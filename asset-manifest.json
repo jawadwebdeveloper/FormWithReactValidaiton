@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FormWithReactValidaiton/static/css/main.7130e531.css",
+    "main.js": "/FormWithReactValidaiton/static/js/main.47227015.js",
+    "static/js/787.2b6f230d.chunk.js": "/FormWithReactValidaiton/static/js/787.2b6f230d.chunk.js",
+    "static/media/categoryone.jpg": "/FormWithReactValidaiton/static/media/categoryone.fc0e3aa3780d85f56082.jpg",
+    "static/media/categorythre.jpg": "/FormWithReactValidaiton/static/media/categorythre.6f75d595f549ac9a9a0c.jpg",
+    "static/media/profilethre.jpeg": "/FormWithReactValidaiton/static/media/profilethre.8ca87b913620ad9166f9.jpeg",
+    "static/media/img4.jpg": "/FormWithReactValidaiton/static/media/img4.40ece35e7f2818fca78e.jpg",
+    "static/media/profilefour.jpeg": "/FormWithReactValidaiton/static/media/profilefour.a63d8cef603db451525c.jpeg",
+    "static/media/jawadcodes.jpeg": "/FormWithReactValidaiton/static/media/jawadcodes.ee51de1b65c157f4916e.jpeg",
+    "index.html": "/FormWithReactValidaiton/index.html",
+    "main.7130e531.css.map": "/FormWithReactValidaiton/static/css/main.7130e531.css.map",
+    "main.47227015.js.map": "/FormWithReactValidaiton/static/js/main.47227015.js.map",
+    "787.2b6f230d.chunk.js.map": "/FormWithReactValidaiton/static/js/787.2b6f230d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7130e531.css",
+    "static/js/main.47227015.js"
+  ]
+}
